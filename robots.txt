@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://epicstar-casino.review/sitemap.xml
+Sitemap: https://epicstarcasino.vercel.app/sitemap.xml
 
 User-agent: Googlebot
 Allow: /
